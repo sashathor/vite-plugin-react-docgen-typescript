@@ -1,5 +1,5 @@
 {
-  "name": "@joshwooding/vite-plugin-react-docgen-typescript",
+  "name": "@sashathor/vite-plugin-react-docgen-typescript",
   "version": "0.2.3",
   "description": "A vite plugin to inject react typescript docgen information",
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/joshwooding/vite-plugin-react-docgen-typescript.git"
+    "url": "https://github.com/sashathor/vite-plugin-react-docgen-typescript.git"
   },
   "license": "MIT",
   "author": "Josh Wooding",
